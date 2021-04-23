@@ -16,8 +16,6 @@ Here are the Steps to Compile this Golang Project
 ##### [1] 9331
 
 
-The archived original Monitoring-Agent created for BAU CICD can be found here:
-https://ea856a@egbitbucket.dtvops.net/scm/baudcocm/monitoring-agent.git
 
 
 Here is a useful hyperlink for defining a Go Project Folder Hierarchy
