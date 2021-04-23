@@ -1,0 +1,4 @@
+#!/bin/bash
+
+ps -efH | grep -i haproxy 
+ 
